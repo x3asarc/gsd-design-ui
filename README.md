@@ -107,6 +107,12 @@ The skill adapts to whatever constraints you provide in the brief:
 
 ---
 
+## Credits
+
+Design methodology by [@Av1dlive](https://x.com/Av1dlive) — original thread: https://x.com/Av1dlive/status/2023086925817729306
+
+---
+
 ## License
 
 MIT
