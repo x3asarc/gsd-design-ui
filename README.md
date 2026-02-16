@@ -1,10 +1,15 @@
 # gsd:design-ui
 
-A taste-first AI design skill for [GSD (Get Stuff Done)](https://github.com/getgsd/gsd) — Claude Code's AI workflow framework.
+A taste-first AI design skill for [GSD (Get Shit Done)](https://github.com/glittercowboy/get-shit-done) — Claude Code's AI workflow framework.
 
 Turns a screenshot or design brief into production-ready UI code through a structured 6-stage pipeline where every prompt is pre-loaded with context before generation begins.
 
 ---
+
+## Requirements
+
+- [GSD (Get Shit Done)](https://github.com/glittercowboy/get-shit-done) installed via `npx get-shit-done-cc`
+- Claude Code
 
 ## Install
 
